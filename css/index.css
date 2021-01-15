@@ -22,11 +22,6 @@ a {
   color: #0090dd;
 }
 
-#background-website{
-    background-image: url("../imagenes/backround2.svg");
-    background-size: cover;
-}
-
 .container_card {
   font-family: sans-serif;
   letter-spacing: 0.03em;
@@ -177,6 +172,7 @@ footer {
   margin-left: 20px;
   max-width: 300px;
 }
+
 
 .container {
   margin: auto;
